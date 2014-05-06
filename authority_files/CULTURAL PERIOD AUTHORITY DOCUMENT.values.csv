@@ -1,0 +1,298 @@
+conceptid,Value,ValueType,Provider
+PERIOD_1,1,sortorder,i3mainz
+PERIOD_1,-2500000,minimum date,i3mainz
+PERIOD_1,-2200,maximum date,i3mainz
+	PERIOD_11,2,sortorder,i3mainz
+	PERIOD_11,-2500000,minimum date,i3mainz
+	PERIOD_11,-8000,maximum date,i3mainz
+	PERIOD_12,1000,sortorder,i3mainz
+	PERIOD_12,-8000,minimum date,i3mainz
+	PERIOD_12,-4000,maximum date,i3mainz
+		PERIOD_1210,1500,sortorder,i3mainz
+		PERIOD_1210,-10000,minimum date,i3mainz
+		PERIOD_1210,-4000,maximum date,i3mainz
+			PERIOD_12100,1700,sortorder,i3mainz
+			PERIOD_12100,-5400,minimum date,i3mainz
+			PERIOD_12100,-4000,maximum date,i3mainz
+				PERIOD_1210010,1701,sortorder,i3mainz
+				PERIOD_1210010,-5450,minimum date,i3mainz
+				PERIOD_1210010,-3900,maximum date,i3mainz
+				PERIOD_1210011,1702,sortorder,i3mainz
+				PERIOD_1210011,-5350,minimum date,i3mainz
+				PERIOD_1210011,-5250,maximum date,i3mainz
+				PERIOD_1210016,1703,sortorder,i3mainz
+				PERIOD_1210016,-5150,minimum date,i3mainz
+				PERIOD_1210016,-5000,maximum date,i3mainz
+				PERIOD_1210013,1704,sortorder,i3mainz
+				PERIOD_1210013,-5000,minimum date,i3mainz
+				PERIOD_1210013,-4850,maximum date,i3mainz
+				PERIOD_1210014,1705,sortorder,i3mainz
+				PERIOD_1210014,-4600,minimum date,i3mainz
+				PERIOD_1210014,-4500,maximum date,i3mainz
+				PERIOD_1210017,1706,sortorder,i3mainz
+				PERIOD_1210017,-4600,minimum date,i3mainz
+				PERIOD_1210017,-4400,maximum date,i3mainz
+				PERIOD_1210015,1707,sortorder,i3mainz
+				PERIOD_1210015,-4300,minimum date,i3mainz
+				PERIOD_1210015,-4100,maximum date,i3mainz
+				PERIOD_1210018,1708,sortorder,i3mainz
+				PERIOD_1210018,-4150,minimum date,i3mainz
+				PERIOD_1210018,-3900,maximum date,i3mainz
+	PERIOD_13,2000,sortorder,i3mainz
+	PERIOD_13,-5500,minimum date,i3mainz
+	PERIOD_13,-2200,maximum date,i3mainz
+		PERIOD_1310,2001,sortorder,i3mainz
+		PERIOD_1310,-5500,minimum date,i3mainz
+		PERIOD_1310,-2200,maximum date,i3mainz
+			PERIOD_13100,2002,sortorder,i3mainz
+			PERIOD_13100,-5500,minimum date,i3mainz
+			PERIOD_13100,-5000,maximum date,i3mainz
+				PERIOD_1310010,2003,sortorder,i3mainz
+				PERIOD_1310010,-5500,maximum date,i3mainz
+				PERIOD_1310010,-5400,minimum date,i3mainz
+				PERIOD_1310011,2004,sortorder,i3mainz
+				PERIOD_1310011,-5500,minimum date,i3mainz
+				PERIOD_1310011,-5000,maximum date,i3mainz
+					PERIOD_131001110,2005,sortorder,i3mainz
+					PERIOD_131001110,-5500,minimum date,i3mainz
+					PERIOD_131001110,-5300,maximum date,i3mainz
+					PERIOD_131001111,2006,sortorder,i3mainz
+					PERIOD_131001111,-5300,minimum date,i3mainz
+					PERIOD_131001111,-5200,maximum date,i3mainz
+					PERIOD_131001112,2007,sortorder,i3mainz
+					PERIOD_131001112,-5200,minimum date,i3mainz
+					PERIOD_131001112,-5100,maximum date,i3mainz
+					PERIOD_131001113,2008,sortorder,i3mainz
+					PERIOD_131001113,-5100,minimum date,i3mainz
+					PERIOD_131001113,-5050,maximum date,i3mainz
+					PERIOD_131001114,2009,sortorder,i3mainz
+					PERIOD_131001114,-5050,minimum date,i3mainz
+					PERIOD_131001114,-5000,maximum date,i3mainz
+				PERIOD_1310012,2010,sortorder,i3mainz
+				PERIOD_1310012,-5300,minimum date,i3mainz
+				PERIOD_1310012,-5200,maximum date,i3mainz
+			PERIOD_13101,2011,sortorder,i3mainz
+			PERIOD_13101,-5000,minimum date,i3mainz
+			PERIOD_13101,-4400,maximum date,i3mainz
+				PERIOD_1310110,2012,sortorder,i3mainz
+				PERIOD_1310110,-5000,minimum date,i3mainz
+				PERIOD_1310110,-4900,maximum date,i3mainz
+				PERIOD_1310111,2013,sortorder,i3mainz
+				PERIOD_1310111,-4900,minimum date,i3mainz
+				PERIOD_1310111,-4800,maximum date,i3mainz
+				PERIOD_1310112,2014,sortorder,i3mainz
+				PERIOD_1310112,-4900,minimum date,i3mainz
+				PERIOD_1310112,-4600,maximum date,i3mainz
+				PERIOD_1310113,2015,sortorder,i3mainz
+				PERIOD_1310113,-4800,minimum date,i3mainz
+				PERIOD_1310113,-4600,maximum date,i3mainz
+				PERIOD_1310114,2016,sortorder,i3mainz
+				PERIOD_1310114,-4600,minimum date,i3mainz
+				PERIOD_1310114,-4300,maximum date,i3mainz
+					PERIOD_131011410,2017,sortorder,i3mainz
+					PERIOD_131011410,-4600,minimum date,i3mainz
+					PERIOD_131011410,-4400,maximum date,i3mainz
+				PERIOD_1310115,2020,sortorder,i3mainz
+				PERIOD_1310115,-4500,minimum date,i3mainz
+				PERIOD_1310115,-4400,maximu date,i3mainz
+			PERIOD_13102,2021,sortorder,i3mainz
+			PERIOD_13102,-4400,minimum date,i3mainz
+			PERIOD_13102,-3500,maximum date,i3mainz
+				PERIOD_1310210,2023,sortorder,i3mainz
+				PERIOD_1310210,-4300,minimum date,i3mainz
+				PERIOD_1310210,-4200,maximum date,i3mainz
+				PERIOD_1310211,2022,sortorder,i3mainz
+				PERIOD_1310211,-4400,minimum date,i3mainz
+				PERIOD_1310211,-4200,maximum date,i3mainz
+				PERIOD_1310212,2024,sortorder,i3mainz
+				PERIOD_1310212,-4350,minimum date,i3mainz
+				PERIOD_1310212,-4200,maximum date,i3mainz
+				PERIOD_1310213,2025,sortorder,i3mainz
+				PERIOD_1310213,-4400,minimum date,i3mainz
+				PERIOD_1310213,-3550,maximum date,i3mainz
+					PERIOD_131021310,2026,sortorder,i3mainz
+					PERIOD_131021310,-4400,minimum date,i3mainz
+					PERIOD_131021310,-4050,maximum date,i3mainz
+					PERIOD_131021311,2029,sortorder,i3mainz
+					PERIOD_131021311,-4050,minimum date,i3mainz
+					PERIOD_131021311,-3800,maximum date,i3mainz
+					PERIOD_131021312,2033,sortorder,i3mainz
+					PERIOD_131021312,-3800,minimum date,i3mainz
+					PERIOD_131021312,-3550,maximum date,i3mainz
+				PERIOD_1310214,2036,sortorder,i3mainz
+				PERIOD_1310214,-4100,minimum date,i3mainz
+				PERIOD_1310214,-3900,maximum date,i3mainz
+				PERIOD_1310215,2037,sortorder,i3mainz
+				PERIOD_1310215,-4150,minimum date,i3mainz
+				PERIOD_1310215,-3800,maximum date,i3mainz
+				PERIOD_1310216,2038,sortorder,i3mainz
+				PERIOD_1310216,-4100,minimum date,i3mainz
+				PERIOD_1310216,-3900,maximum date,i3mainz
+				PERIOD_1310217,2040,sortorder,i3mainz
+				PERIOD_1310217,-3900,minimum date,i3mainz
+				PERIOD_1310217,-3750,maximum date,i3mainz
+				PERIOD_1310218,2039,sortorder,i3mainz
+				PERIOD_1310218,-4400,minimum date,i3mainz
+				PERIOD_1310218,-4250,maximum date,i3mainz
+				PERIOD_1310219,2041,sortorder,i3mainz
+				PERIOD_1310219,-3800,minimum date,i3mainz
+				PERIOD_1310219,-3700,maximum date,i3mainz
+				PERIOD_1310220,2042,sortorder,i3mainz
+				PERIOD_1310220,-3800,minimum date,i3mainz
+				PERIOD_1310220,-3700,maximum date,i3mainz
+				PERIOD_1310221,2043,sortorder,i3mainz
+				PERIOD_1310221,-4000,minimum date,i3mainz
+				PERIOD_1310221,-2900,maximum date,i3mainz
+					PERIOD_131022110,2044,sortorder,i3mainz
+					PERIOD_131022110,-4000,minimum date,i3mainz
+					PERIOD_131022110,-3750,maximum date,i3mainz
+					PERIOD_131022111,2045,sortorder,i3mainz
+					PERIOD_131022111,-3750,minimum date,i3mainz
+					PERIOD_131022111,-3500,maximum date,i3mainz
+				PERIOD_1310222,2018,sortorder,i3mainz
+				PERIOD_1310222,-4450,minimum date,i3mainz
+				PERIOD_1310222,-4350,maximum date,i3mainz
+			PERIOD_13103,2046,sortorder,i3mainz
+			PERIOD_13103,-3500,minimum date,i3mainz
+			PERIOD_13103,-2800,maximum date,i3mainz
+				PERIOD_1310310,2051,sortorder,i3mainz
+				PERIOD_1310310,-3500,minimum date,i3mainz
+				PERIOD_1310310,-2800,maximum date,i3mainz
+				PERIOD_1310311,2053,sortorder,i3mainz
+				PERIOD_1310311,-3500,minimum date,i3mainz
+				PERIOD_1310311,-3300-maximum date,i3mainz
+				PERIOD_1310312,2052,sortorder,i3mainz
+				PERIOD_1310312,-3550,minimum date,i3mainz
+				PERIOD_1310312,-3450,maximum date,i3mainz
+				PERIOD_1310313,2054,sortorder,i3mainz
+				PERIOD_1310313,-3250,minimum order,i3mainz
+				PERIOD_1310313,-3000,maximum order,i3mainz
+				PERIOD_1310314,2055,sortorder,i3mainz
+				PERIOD_1310314,-3250,minimum order,i3mainz
+				PERIOD_1310314,-3100,maximum order,i3mainz
+				PERIOD_1310315,2047,sortorder,i3mainz
+				PERIOD_1310315,-4000,minimum date,i3mainz
+				PERIOD_1310315,-2900,maximum date,i3mainz
+					PERIOD_131031510,2048,sortorder,i3mainz
+					PERIOD_131031510,-3500,minimum date,i3mainz
+					PERIOD_131031510,-3300,maximum date,i3mainz
+					PERIOD_131031511,2049,sortorder,i3mainz
+					PERIOD_131031511,-3300,minimum date,i3mainz
+					PERIOD_131031511,-3100,maximum date,i3mainz
+					PERIOD_131031512,2050,sortorder,i3mainz
+					PERIOD_131031512,-3100,minimum date,i3mainz
+					PERIOD_131031512,-2900,maximum date,i3mainz		
+				PERIOD_1310316,2056,sortorder,i3mainz
+				PERIOD_1310316,-3100,minimum date,i3mainz
+				PERIOD_1310316,-2650,maximum date,i3mainz
+			PERIOD_13104,2057,sortorder,i3mainz
+			PERIOD_13104,-2800,minimum date,i3mainz
+			PERIOD_13104,-2200,maximum date,i3mainz
+				PERIOD_1310410,2058,sortorder,i3mainz
+				PERIOD_1310410,-2900,minimum date,i3mainz
+				PERIOD_1310410,-2600,maximum date,i3mainz
+				PERIOD_1310411,2059,sortorder,i3mainz
+				PERIOD_1310411,-2800,minimum date,i3mainz
+				PERIOD_1310411,-2200,maximum date,i3mainz
+				PERIOD_1310412,2060,sortorder,i3mainz
+				PERIOD_1310412,-2600,minimum date,i3mainz
+				PERIOD_1310412,-2200,maximum date,i3mainz
+				PERIOD_1310413,2061,sortorder,i3mainz
+				PERIOD_1310413,-2600,minimum date,i3mainz
+				PERIOD_1310413,-2500,maximum date,i3mainz
+		PERIOD_1311,2300,sortorder,i3mainz
+		PERIOD_1311,-4000,minimum date,i3mainz
+		PERIOD_1311,-2000,maximum date,i3mainz
+			PERIOD_13110,2301,sortorder,i3mainz
+			PERIOD_13110,-4000,minimum date,i3mainz
+			PERIOD_13110,-3300,maximum date,i3mainz
+				PERIOD_1311010,2302,sortorder,i3mainz
+				PERIOD_1311010,-4100,minimum date,i3mainz
+				PERIOD_1311010,-2800,maximum date,i3mainz
+					PERIOD_131101010,2303,sortorder,i3mainz
+					PERIOD_131101010,-4000,minimum date,i3mainz
+					PERIOD_131101010,-3300,maximum date,i3mainz
+				PERIOD_1311011,2304,sortorder,i3mainz
+				PERIOD_1311011,-3900,minimum date,i3mainz
+				PERIOD_1311011,-3800,maximum date,i3mainz
+				PERIOD_1311012,2305,sortorder,i3mainz
+				PERIOD_1311012,-3700,minimum date,i3mainz
+				PERIOD_1311012,-3500,maximum date,i3mainz
+				PERIOD_1311013,2306,sortorder,i3mainz
+				PERIOD_1311013,-3500,minimum date,i3mainz
+				PERIOD_1311013,-3300,maximum date,i3mainz
+				PERIOD_1311014,2307,sortorder,i3mainz
+				PERIOD_1311014,-3900,minimum date,i3mainz
+				PERIOD_1311014,-3500,maximum date,i3mainz
+				PERIOD_1311015,2308,sortorder,i3mainz
+				PERIOD_1311015,-3500,minimum date,i3mainz
+				PERIOD_1311015,-3300,maximum date,i3mainz
+			PERIOD_13111,2309,sortorder,i3mainz
+			PERIOD_13111,-3300,minimum date,i3mainz
+			PERIOD_13111,-2800,maximum date,i3mainz
+				PERIOD_1311110,2310,sortorder,i3mainz
+				PERIOD_1311110,-4100,minimum date,i3mainz
+				PERIOD_1311110,-2800,maximum date,i3mainz
+					PERIOD_131111010,2311,sortorder,i3mainz
+					PERIOD_131111010,-3300,minimum date,i3mainz
+					PERIOD_131111010,-2800,maximum date,i3mainz
+				PERIOD_1311111,2312,sortorder,i3mainz
+				PERIOD_1311111,-3300,minimum date,i3mainz
+				PERIOD_1311111,-3200,maximum date,i3mainz
+				PERIOD_1311112,2313,sortorder,i3mainz
+				PERIOD_1311112,-3200,minimum date,i3mainz
+				PERIOD_1311112,-3150,maximum date,i3mainz
+				PERIOD_1311113,2314,sortorder,i3mainz
+				PERIOD_1311113,-3150,minimum date,i3mainz
+				PERIOD_1311113,-3000,maximum date,i3mainz
+				PERIOD_1311114,2315,sortorder,i3mainz
+				PERIOD_1311114,-3000,minimum date,i3mainz
+				PERIOD_1311114,-2950,maximum date,i3mainz
+				PERIOD_1311115,2316,sortorder,i3mainz
+				PERIOD_1311115,-2950,minimum date,i3mainz
+				PERIOD_1311115,-2850,maximum date,i3mainz
+				PERIOD_1311116,2317,sortorder,i3mainz
+				PERIOD_1311116,-2850,minimum date,i3mainz
+				PERIOD_1311116,-2800,maximum date,i3mainz
+				PERIOD_1311117,2318,sortorder,i3mainz
+				PERIOD_1311117,-2900,minimum date,i3mainz
+				PERIOD_1311117,-2600,maximum date,i3mainz		
+			PERIOD_13112,2319,sortorder,i3mainz
+			PERIOD_13112,-2800,minimum date,i3mainz
+			PERIOD_13112,-2350,maximum date,i3mainz
+				PERIOD_1311210,2320,sortorder,i3mainz
+				PERIOD_1311210,-2800,minimum date,i3mainz
+				PERIOD_1311210,-2550,maximum date,i3mainz
+				PERIOD_1311211,2321,sortorder,i3mainz
+				PERIOD_1311211,-2550,minimum date,i3mainz
+				PERIOD_1311211,-2450,maximum date,i3mainz
+				PERIOD_1311213,2322,sortorder,i3mainz
+				PERIOD_1311213,-2450,minimum date,i3mainz
+				PERIOD_1311213,-2350,maximum date,i3mainz
+				PERIOD_1311215,2323,sortorder,i3mainz
+				PERIOD_1311215,-2700,minimum date,i3mainz
+				PERIOD_1311215,-2500,maximum date,i3mainz
+				PERIOD_1311214,2324,sortorder,i3mainz
+				PERIOD_1311214,-2800,minimum date,i3mainz
+				PERIOD_1311214,-2500,maximum date,i3mainz
+			PERIOD_13113,2325,sortorder,i3mainz
+			PERIOD_13113,-2350,minimum date,i3mainz
+			PERIOD_13113,-2000,maximum date,i3mainz
+				PERIOD_1311310,2326,sortorder,i3mainz
+				PERIOD_1311310,-2350,minimum date,i3mainz
+				PERIOD_1311310,-2200,maximum date,i3mainz
+				PERIOD_1311311,2327,sortorder,i3mainz
+				PERIOD_1311311,-2200,minimum date,i3mainz
+				PERIOD_1311311,-2000,maximum date,i3mainz
+				PERIOD_1311312,2328,sortorder,i3mainz
+				PERIOD_1311312,-2200,minimum date,i3mainz
+				PERIOD_1311312,-2000,maximum date,i3mainz
+PERIOD_2,3000,sortorder,i3mainz
+PERIOD_2,-3300,minimum date,i3mainz
+PERIOD_2,-500,maximum date,i3mainz
+	PERIOD_21,3001,sortorder,i3mainz
+	PERIOD_21,-3300,minimum date,i3mainz
+	PERIOD_21,-2600,maximum date,i3mainz
+		PERIOD_2110,3002,sortorder,i3mainz
+		PERIOD_2110,-2200,minimum date,i3mainz
+		PERIOD_2110,-1600,maximum date,i3mainz

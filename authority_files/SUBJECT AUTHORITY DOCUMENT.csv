@@ -1,0 +1,12 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider 
+SUBJECT_1,Handelnde,,SUBJECT AUTHORITY DOCUMENT.csv,Index,i3mainz
+SUBJECT_1000,Menschen,,SUBJECT_1,Index,i3mainz
+SUBJECT_1001,Organisationen,,SUBJECT_1,Index,i3mainz
+SUBJECT_1002,Lebewesen,,SUBJECT_1,Index,i3mainz
+SUBJECT_2,Aktivitaeten,,SUBJECT AUTHORITY DOCUMENT.csv,Index,i3mainz
+SUBJECT_2000,Vorgang,,SUBJECT_2,Index,i3mainz
+SUBJECT_2001,Koerperliche und geistige Aktivitaeten,,SUBJECT_2,Index,i3mainz
+SUBJECT_2002,Verfahren und Techniken,,SUBJECT_2,Index,i3mainz
+SUBJECT_3,Objekte,,SUBJECT AUTHORITY DOCUMENT.csv,Index,i3mainz
+SUBJECT_4,Orte,,SUBJECT AUTHORITY DOCUMENT.csv,Index,i3mainz
+SUBJECT_5,Design Elemente,,SUBJECT AUTHORITY DOCUMENT.csv,Index,i3mainz

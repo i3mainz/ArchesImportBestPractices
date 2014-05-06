@@ -1,0 +1,125 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider 
+PERIOD_1,Steinzeit,,CULTURAL PERIOD AUTHORITY DOCUMENT.csv,Index,i3mainz
+	PERIOD_11,Palaeolthikum,Altsteinzeit,PERIOD_1,Index,i3mainz
+	PERIOD_12,Mesolithikum,Mittelsteinzeit,PERIOD_1,Index,i3mainz
+		PERIOD_1210,Mesolithikum Norddeutschland Suedskandinavien,,PERIOD_12,Index,i3mainz
+			PERIOD_12100,Endmesolithikum,,PERIOD_1210,Index,i3mainz
+				PERIOD_1210010,Erteboelle Kultur,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210011,Jaeckelberg,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210013,Rosenfelde,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210014,Jarbock,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210015,Timmendorf,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210016,Trylleskoven,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210017,Stationsvey,,PERIOD_12100,Index,i3mainz
+				PERIOD_1210018,Alekistebro,,PERIOD_12100,Index,i3mainz
+	PERIOD_13,Neolithikum,Jungsteinzeit,PERIOD_1,Index,i3mainz
+		PERIOD_1310,Neolithikum Sued und Mitteldeutschland,,PERIOD_13,Index,i3mainz
+			PERIOD_13100,Altneolithikum,Fruehneolithikum,PERIOD_1310,Index,i3mainz
+				PERIOD_1310010,La Hoguette,,PERIOD_13100,Index,i3mainz
+				PERIOD_1310011,Linienbandkeramik,LBK,PERIOD_13100,Index,i3mainz
+					PERIOD_131001110,LBK I,Aelteste Bandkeramik,PERIOD_1310011,Index,i3mainz
+					PERIOD_131001111,LBK II,Aeltere Bandkeramik,PERIOD_1310011,Index,i3mainz
+					PERIOD_131001112,LBK III,Mittlere Bandkeramik,PERIOD_1310011,Index,i3mainz
+						PERIOD_13100111210,LBK IIIb,,PERIOD_131001112,Index,i3mainz
+					PERIOD_131001113,LBK IV,Juengere Bandkeramik,PERIOD_1310011,Index,i3mainz
+					PERIOD_131001114,LBK V,Juengste Bandkeramik,PERIOD_1310011,Index,i3mainz
+						PERIOD_1310011410,LBK Va,,PERIOD_13100114,Index,i3mainz
+						PERIOD_1310011411,LBK Vb,,PERIOD_13100114,Index,i3mainz
+				PERIOD_1310012,Flomborn,,PERIOD_13100,Index,i3mainz
+			PERIOD_13101,Mittelneolithikum,,PERIOD_1310,Index,i3mainz
+				PERIOD_1310110,Hinkelstein,,PERIOD_13101,Index,i3mainz
+					PERIOD_131011010,Fruehe Hinkelstein,,PERIOD_1310110,Index,i3mainz
+					PERIOD_131011011,Mittlere Hinkelstein,,PERIOD_1310110,Index,i3mainz
+					PERIOD_131011012,Spaete Hinkelstein,,PERIOD_1310110,Index,i3mainz
+				PERIOD_1310111,Grossgartach,,PERIOD_13101,Index,i3mainz
+					PERIOD_131011110,Fruehes Grossgartach,,PERIOD_1310111,Index,i3mainz
+					PERIOD_131011111,Mittlere Grossgartach,,PERIOD_1310111,Index,i3mainz
+					PERIOD_131011112,Spaetes Grossgartach,,PERIOD_1310111,Index,i3mainz
+				PERIOD_1310112,Stichband,,PERIOD_13101,Index,i3mainz
+				PERIOD_1310113,Roessen,,PERIOD_13101,Index,i3mainz
+					PERIOD_131011310,Roessen I,,PERIOD_1310113,Index,i3mainz
+					PERIOD_131011311,Roessen II,,PERIOD_1310113,Index,i3mainz
+					PERIOD_131011312,Roessen III,,PERIOD_1310113,Index,i3mainz
+				PERIOD_1310114,Bischheim,,PERIOD_13101,Index,i3mainz
+					PERIOD_131011410,Fruehes Bischheim,,PERIOD_1310114,Index,i3mainz
+				PERIOD_1310115,Muenchshoefen,,PERIOD_13101,Index,i3mainz
+			PERIOD_13102,Jungneolithikum,,PERIOD_1310,Index,i3mainz
+				PERIOD_1310210,Aichbuehl,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310211,Schwieberdingen,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310212,Wallerfing,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310213,Michelsberg,MK,PERIOD_13102,Index,i3mainz
+					PERIOD_131021310,Aeltere Michelsberg,,PERIOD_1310213,Index,i3mainz
+						PERIOD_13102131010,Michelsberg I,,PERIOD_131021310,Index,i3mainz
+						PERIOD_13102131011,Michelsberg II,,PERIOD_131021310,Index,i3mainz
+					PERIOD_131021311,Mittlere Michelsberg,,PERIOD_1310213,Index,i3mainz
+						PERIOD_13102131110,Michelsberg III,,PERIOD_131021311,Index,i3mainz
+							PERIOD_1310213111100,Michelsberg IIIa,,PERIOD_13102131110,Index,i3mainz
+							PERIOD_1310213111101,Michelsberg IIIb,,PERIOD_13102131110,Index,i3mainz
+					PERIOD_131021312,Juengere Michelsberg,,PERIOD_1310213,Index,i3mainz
+						PERIOD_13102131210,Michelsberg IV,,PERIOD_131021312,Index,i3mainz
+						PERIOD_13102131211,Michelsberg V,,PERIOD_131021312,Index,i3mainz
+				PERIOD_1310214,Schussenried,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310215,Ehrenstein,,PERIOD_13102,Index,i3mainz
+					PERIOD_131021510,Ehrenstein I,,PERIOD_1310215,Index,i3mainz
+					PERIOD_131021511,Ehrenstein II,,PERIOD_1310215,Index,i3mainz
+					PERIOD_131021512,Ehrenstein III,,PERIOD_1310215,Index,i3mainz
+					PERIOD_131021513,Ehrenstein IV,,PERIOD_1310215,Index,i3mainz
+				PERIOD_1310216,Polling,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310217,Pfyn und Altenheim,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310218,Gatersleben,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310219,Baalberge,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310220,Jordansmuehl,,PERIOD_13102,Index,i3mainz
+				PERIOD_1310221,Mittel Elbe Saale,MES,PERIOD_13102,Index,i3mainz
+					PERIOD_131022110,MES I,,PERIOD_1310221,Index,i3mainz
+					PERIOD_131022111,MES II,,PERIOD_1310221,Index,i3mainz
+				PERIOD_1310222,Bischheim,,PERIOD_13102,Index,i3mainz
+					PERIOD_131022210,Klassisches Bischheim,,PERIOD_1310222,Index,i3mainz
+			PERIOD_13103,Spaetneolithikum,,PERIOD_1310,Index,i3mainz
+				PERIOD_1310310,Horgen Cham Wartburg,,PERIOD_13103,Index,i3mainz
+				PERIOD_1310311,Tiefstichkeramik,,PERIOD_13103,Index,i3mainz
+				PERIOD_1310312,Salzmuende,,PERIOD_13103,Index,i3mainz
+				PERIOD_1310313,Bernburg,,PERIOD_13103,Index,i3mainz
+				PERIOD_1310314,Walternienburg,,PERIOD_13103,Index,i3mainz
+				PERIOD_1310315,Mittel Elbe Saale,MES,PERIOD_13103,Index,i3mainz
+					PERIOD_131031510,MES III,,PERIOD_1310315,Index,i3mainz
+					PERIOD_131031511,MES IV,,PERIOD_1310315,Index,i3mainz
+					PERIOD_131031512,MES V,,PERIOD_1310315,Index,i3mainz
+				PERIOD_1310316,Kugelamphoren,,PERIOD_13103,Index,i3mainz
+			PERIOD_13104,Endneolithikum,,PERIOD_1310,Index,i3mainz
+				PERIOD_1310410,Goldberg III,,PERIOD_13104,Index,i3mainz
+				PERIOD_1310411,Schnurkeramik,,PERIOD_13104,Index,i3mainz
+				PERIOD_1310412,Glockenbecher,,PERIOD_13104,Index,i3mainz
+				PERIOD_1310413,Schoenfeld,,PERIOD_13104,Index,i3mainz
+		PERIOD_1311,Neolithikum Norddeutschland Suedskandinavien,,PERIOD_13,Index,i3mainz
+			PERIOD_13110,Nordisches Fruehneolithikum,,PERIOD_1311,Index,i3mainz
+				PERIOD_1311010,Trichterbecherkultur,,PERIOD_13110,Index,i3mainz
+						PERIOD_131101010,Aeltere Trichterbecherkultur,,PERIOD_1311010,Index,i3mainz
+				PERIOD_1311011,Wangels,,PERIOD_13110,Index,i3mainz
+				PERIOD_1311012,Siggeneben,,PERIOD_13110,Index,i3mainz
+				PERIOD_1311013,Fuchsberg,,PERIOD_13110,Index,i3mainz
+				PERIOD_1311014,Fruehneolithikum I,,PERIOD_13110,Index,i3mainz
+				PERIOD_1311015,Fruehneolithikum II,,PERIOD_13110,Index,i3mainz
+			PERIOD_13111,Nordisches Mittelneolithikum A,,PERIOD_1311,Index,i3mainz
+				PERIOD_1311110,Trichterbecherkultur,,PERIOD_13111,Index,i3mainz
+					PERIOD_131111010,Juengere Trichterbecherkultur,,PERIOD_1311110,Index,i3mainz
+				PERIOD_1311111,Mittelneolithikum AIa,,PERIOD_13111,Index,i3mainz
+				PERIOD_1311112,Mittelneolithikum AIb,,PERIOD_13111,Index,i3mainz
+				PERIOD_1311113,Mittelneolithikum AII,,PERIOD_13111,Index,i3mainz
+				PERIOD_1311114,Mittelneolithikum AIII,,PERIOD_13111,Index,i3mainz
+				PERIOD_1311115,Mittelneolithikum AIV,,PERIOD_13111,Index,i3mainz
+				PERIOD_1311116,Mittelneolithikum AV,,PERIOD_13111,Index,i3mainz
+				PERIOD_1311117,Gruebchenkeramik,,PERIOD_13111,Index,i3mainz
+			PERIOD_13112,Nordisches Mittelneolithikum_B,,PERIOD_1311,Index,i3mainz
+				PERIOD_1311210,Mittelneolithikum BI,,PERIOD_13112,Index,i3mainz
+				PERIOD_1311211,Mittelneolithikum BII,,PERIOD_13112,Index,i3mainz
+				PERIOD_1311213,Mittelneolihtikum BIII,,PERIOD_13112,Index,i3mainz
+				PERIOD_1311214,Einzelgrabkultur,,PERIOD_13112,Index,i3mainz
+				PERIOD_1311215,Streitaxtkultur,,PERIOD_13112,Index,i3mainz
+			PERIOD_13113,Nordisches Spaetneolithikum,,PERIOD_1311,Index,i3mainz
+				PERIOD_1311310,Glockenbecher,,PERIOD_13113,Index,i3mainz
+				PERIOD_1311311,Dolchzeit,,PERIOD_13113,Index,i3mainz
+				PERIOD_1311312,Stacheldrahtkeramik,,PERIOD_13113,Index,i3mainz
+PERIOD_2,Bronzezeit,,CULTURAL PERIOD AUTHORITY DOCUMENT.csv,Index,i3mainz
+	PERIOD_21,Fruehe Bronzezeit,,PERIOD_2,Index,i3mainz
+		PERIOD_2110,Fruehe Bronzezeit Sued und Mitteldeutschland,,PERIOD_21,Index,i3mainz
+PERIOD_3,Eisenzeit,,CULTURAL PERIOD AUTHORITY DOCUMENT.csv,Index,i3mainz

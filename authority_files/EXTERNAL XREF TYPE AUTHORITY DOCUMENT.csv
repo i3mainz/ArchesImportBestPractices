@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+EXTERNAL_XREF_TYPE_1,Bearbeiter ID,,EXTERNAL XREF TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	EXTERNAL_XREF_TYPE_1000,ID Fetsch,,EXTERNAL_XREF_TYPE_1,Index,i3mainz
+	EXTERNAL_XREF_TYPE_1001,ID Frankreich,,EXTERNAL_XREF_TYPE_1,Index,i3mainz
+EXTERNAL_XREF_TYPE_2,Amtliche ID,,EXTERNAL XREF TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	EXTERNAL_XREF_TYPE_2000,Landesdenkmalamt,,EXTERNAL_XREF_TYPE_2,Index,i3mainz

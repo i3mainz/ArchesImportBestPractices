@@ -1,0 +1,5 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider 
+CONDITION_1,sehr gut,,CONDITION AUTHORITY DOCUMENT.csv,Index,i3mainz
+CONDITION_2,gut,,CONDITION AUTHORITY DOCUMENT.csv,Index,i3mainz
+CONDITION_3,schlecht,,CONDITION AUTHORITY DOCUMENT.csv,Index,i3mainz
+CONDITION_4,sehr schlecht,,CONDITION AUTHORITY DOCUMENT.csv,Index,i3mainz

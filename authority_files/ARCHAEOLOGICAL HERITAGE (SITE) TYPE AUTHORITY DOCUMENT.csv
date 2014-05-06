@@ -1,0 +1,20 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider 
+SITE_1,Siedlung,,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	SITE_1000,Befestigte Siedlung,,SITE_1,Index,i3mainz
+	SITE_1001,Unbefestigte Siedlung,,SITE_1,Index,i3mainz
+SITE_2,Architektur,,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	SITE_2000,Befestigung,,SITE_2,Index,i3mainz
+		SITE_20001,Erdwerk,,SITE_2000,Index,i3mainz
+			SITE_200011,Erdwerk mit Siedlungsspuren,,SITE_20001,Index,i3mainz
+			SITE_200012,Erderwerk ohne Siedlungsspuren,,SITE_20001,Index,i3mainz
+	SITE_2001,Gebaeude,,SITE_2,Index,i3mainz
+	SITE_2002,Gruben,,SITE_2,Index,i3mainz
+SITE_3,Fundsammlung,,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	SITE_3000,Hortfund,Depotfund,SITE_3,Index,i3mainz
+	SITE_3001,Fundsammlung_indifferent,,SITE_3,Index,i3mainz
+SITE_4,Bestattung,Grab,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+SITE_5,Urkundlicher Beleg,,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	SITE_5000,PGIS des GDKE RLP,,SITE_5,Index,i3mainz
+SITE_6,Erdschicht,,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	SITE_6000,Fundfuehrende Schicht,,SITE_6,Index,i3mainz
+SITE_7,Einzelfund,,ARCHAEOLOGICAL HERITAGE (SITE) TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz

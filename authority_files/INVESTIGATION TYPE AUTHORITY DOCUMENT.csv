@@ -1,0 +1,26 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+INVESTIGATION_TYPE_1,Kontrollierte_Grabung,,INVESTIGATION TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	INVESTIGATION_TYPE_1_1,Forschungsgrabung,Wissenschaftliche_Grabung,INVESTIGATION_TYPE_1,Index,i3mainz
+	INVESTIGATION_TYPE_1_2,Rettungsgrabung,Baubegleitende_Grabung,INVESTIGATION_TYPE_1,Index,i3mainz
+	INVESTIGATION_TYPE_1_3,Notbergung,,INVESTIGATION_TYPE_1,Index,i3mainz
+INVESTIGATION_TYPE_2,Prospektion,,INVESTIGATION TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	INVESTIGATION_TYPE_2_1,Oberflaechenbegehung,,INVESTIGATION_TYPE_2,Index,i3mainz
+		INVESTIGATION_TYPE_2_1_1,Oberflaechenbegehung_mit_Bodeneingriff,,INVESTIGATION_TYPE_2_1,Index,i3mainz
+		INVESTIGATION_TYPE_2_1_2,Oberflaechenbegehung_ohne_Bodeneingriff,,INVESTIGATION_TYPE_2_1,Index,i3mainz
+		INVESTIGATION_TYPE_2_1_3,Oberflaechenbegehung (systematisch),,INVESTIGATION_TYPE_2_1,Index,i3mainz
+	INVESTIGATION_TYPE_2_2,Gepphysikalische_Prospektion,,INVESTIGATION_TYPE_2,Index,i3mainz
+		INVESTIGATION_TYPE_2_2_1,Bodenradar_Messung,,INVESTIGATION_TYPE_2_2,Index,i3mainz
+		INVESTIGATION_TYPE_2_2_2,Bodenwiderstandsmessung,,INVESTIGATION_TYPE_2_2,Index,i3mainz
+		INVESTIGATION_TYPE_2_2_3,Geomagnetische_Messung,,INVESTIGATION_TYPE_2_2,Index,i3mainz
+	INVESTIGATION_TYPE_2_3,Befliegung,Flugprospektion,INVESTIGATION_TYPE_2,Index,i3mainz
+INVESTIGATION_TYPE_3,Fernerkundung,,INVESTIGATION TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	INVESTIGATION_TYPE_3_1,Luftbild,,INVESTIGATION_TYPE_3,Index,i3mainz
+	INVESTIGATION_TYPE_3_2,Satellitenbild,,INVESTIGATION_TYPE_3,Index,i3mainz
+INVESTIGATION_TYPE_4,Laienfund,,INVESTIGATION TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
+	INVESTIGATION_TYPE_4_1,Laienfund_mit_Bodeneingriff,,INVESTIGATION_TYPE_4,Index,i3mainz
+	INVESTIGATION_TYPE_4_2,Laienfund_ohne_Bodeneingriff,,INVESTIGATION_TYPE_4,Index,i3mainz
+	INVESTIGATION_TYPE_4_3,Sondengang,,INVESTIGATION_TYPE_4,Index,i3mainz
+		INVESTIGATION_TYPE_4_2_1,Sondengang_mit_Bodeneingriff,,INVESTIGATION_TYPE_4_3,Index,i3mainz
+		INVESTIGATION_TYPE_4_2_2,Sondengang_ohne_Bodeneingriff,,INVESTIGATION_TYPE_4_3,Index,i3mainz
+	INVESTIGATION_TYPE_4_4,Raubgrabung,,INVESTIGATION_TYPE_4,Index,i3mainz
+INVESTIGATION_TYPE_5,Bauaufnahme,,INVESTIGATION TYPE AUTHORITY DOCUMENT.csv,Index,i3mainz
